@@ -2,7 +2,7 @@
 title: "proba git hub"
 author: "MK"
 date: "July 19, 2016"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
